@@ -34,17 +34,17 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp#%2B%2B&logoColor=white)
+    ![React](https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=cyan)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 <br>   
     
-- **Front-End Development**:
+- **Operating Systems**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+   ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 
@@ -57,7 +57,6 @@
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -69,18 +68,15 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/GabrielAB2411/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAB2411&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="GabrielAB2411"/>
 </a>
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
