@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Fullstack developer
+- A passionate self-taught Fullstack developer
 - Studying cloud computing (Azure)
 - Currently learning mobile development by self
 
