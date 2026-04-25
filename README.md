@@ -1,7 +1,6 @@
 <div align="center">
 
 # Gabriel Barbosa
-### Fullstack Developer · Computer Engineer · Builder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+Development;Software+Engineering;Computer+Science;Cloud+%26+Mobile)](https://git.io/typing-svg)
 
