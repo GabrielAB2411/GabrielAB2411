@@ -62,14 +62,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielalvesbarbosa)
 [![Gmail](https://img.shields.io/badge/Gmail-gabrielab2411%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielab2411@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GabrielAB2411-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAB2411)
 
 </div>
 
 ---
-
-<div align="center">
-
-*Always learning · Always building · Always improving* 🚀
-
-</div>
