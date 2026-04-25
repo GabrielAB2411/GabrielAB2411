@@ -42,13 +42,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-### Interests & Emerging Tech
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
-![IoT](https://img.shields.io/badge/IoT-00897B?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![VR](https://img.shields.io/badge/VR-7B2FBE?style=for-the-badge&logo=oculus&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
@@ -57,10 +50,6 @@
 
 <a href="https://github.com/GabrielAB2411">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAB2411&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&bg_color=0D1117" width="420" alt="Top Languages"/>
-</a>
-
-<a href="https://github.com/GabrielAB2411">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAB2411&show_icons=true&theme=github_dark&title_color=00BFFF&icon_color=00BFFF&hide_border=true" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
