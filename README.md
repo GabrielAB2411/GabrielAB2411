@@ -40,18 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/GabrielAB2411">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAB2411&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9&bg_color=0D1117" width="420" alt="Top Languages"/>
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="left">
