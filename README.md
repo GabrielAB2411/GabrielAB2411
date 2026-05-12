@@ -10,8 +10,6 @@
 
 ## 👤 About Me
 
-> *"Building things that work and learning things that matter."*
-
 - 🧑‍💻 Fullstack developer passionate about crafting end-to-end solutions
 - ☁️ Studying **Cloud Computing** with focus on **Azure**
 - 📱 Exploring **Mobile Development** independently
